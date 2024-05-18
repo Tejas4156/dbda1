@@ -1,0 +1,5 @@
+DAtabase user name -----admin
+password ------    Admin@123
+
+
+aws Security token -- $ubejb73471783@whfwe9
